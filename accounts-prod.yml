@@ -3,7 +3,7 @@ build:
   version: "12.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod aaaaa gfjffgh"
+  message: "Welcome to EazyBank prod"
   contactDetails:
     name: "Reine Aishwarya - Product ciao"
     email: "aishwarya@eazybank.com"
